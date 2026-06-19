@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "scripts": {
-    "dev": "next dev",
+    "dev": "node scripts/run-with-env-file.mjs .env.production next dev",
     "build": "next build",
     "build:staging": "node scripts/run-with-env-file.mjs .env.staging npm run build",
     "postbuild": "node scripts/ensure-standalone-next.mjs",
