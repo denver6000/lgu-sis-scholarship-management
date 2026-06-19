@@ -1,0 +1,43 @@
+{
+  "name": "sis-next",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "build:staging": "node scripts/run-with-env-file.mjs .env.staging npm run build",
+    "postbuild": "node scripts/ensure-standalone-next.mjs",
+    "start": "node server.mjs",
+    "start:staging-local": "node scripts/run-with-env-file.mjs .env.staging npm run start",
+    "staging:local": "npm run build:staging && npm run start:staging-local",
+    "start:prod-local": "node scripts/start-prod-local.mjs",
+    "prod:local": "npm run build && npm run start:prod-local",
+    "emu:status": "node scripts/emulator-suite.mjs status",
+    "emu:collections": "node scripts/emulator-suite.mjs collections",
+    "emu:students": "node scripts/emulator-suite.mjs students",
+    "emu:student": "node scripts/emulator-suite.mjs student",
+    "emu:requirements": "node scripts/emulator-suite.mjs requirements",
+    "emu:auth-users": "node scripts/emulator-suite.mjs auth-users",
+    "emu:logs": "node scripts/emulator-suite.mjs logs",
+    "prod:students:initial-payout": "node scripts/prod-mark-students-initial-payout.mjs",
+    "students:reset-renewal-requirements": "node scripts/reset-renewal-requirements.mjs",
+    "staging:students:reset-renewal-requirements": "node scripts/run-with-env-file.mjs .env.staging node scripts/reset-renewal-requirements.mjs"
+  },
+  "dependencies": {
+    "@tanstack/react-virtual": "^3.13.24",
+    "docxtemplater": "^3.68.7",
+    "firebase": "^12.13.0",
+    "firebase-admin": "^13.10.0",
+    "lucide-react": "^1.16.0",
+    "next": "15.4.11",
+    "pizzip": "^3.2.0",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.21",
+    "@types/react": "^19.0.12",
+    "@types/react-dom": "^19.0.6",
+    "typescript": "^5.8.3"
+  }
+}

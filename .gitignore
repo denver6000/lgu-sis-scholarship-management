@@ -1,0 +1,89 @@
+# Dependencies
+node_modules/
+.pnp/
+.pnp.*
+
+# Next.js build output
+.next/
+.next-dev-logs/
+out/
+
+# Production/build artifacts
+build/
+dist/
+coverage/
+*.lcov
+
+# TypeScript incremental cache
+*.tsbuildinfo
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Firebase and emulator local state
+.firebase/
+firebase-debug.log*
+firestore-debug.log*
+database-debug.log*
+pubsub-debug.log*
+storage-debug.log*
+ui-debug.log*
+firebase-export/
+firebase-export-*/
+firebase-emulator-data/
+.emulator-data/
+
+# Local credentials and private keys
+serviceAccount*.json
+service-account*.json
+*-service-account*.json
+firebase-adminsdk*.json
+google-application-credentials*.json
+application_default_credentials.json
+.credentials/
+secrets/
+*.pem
+*.p12
+*.key
+
+# Tooling caches
+.cache/
+.turbo/
+.swc/
+.eslintcache
+.npm/
+.pnpm-store/
+.yarn/install-state.gz
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+*.swp
+*.swo

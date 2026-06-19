@@ -1,0 +1,1757 @@
+{
+  "barangays": [
+    {
+      "id": "a-pascual",
+      "name": "A. Pascual",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 34,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "A. PASCUAL",
+        "A.PASCUAL",
+        "A. Pascual",
+        "A. pascual"
+      ]
+    },
+    {
+      "id": "abar-1st",
+      "name": "Abar 1st",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 394,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "ABAR 1ST",
+        "Abar 1st"
+      ]
+    },
+    {
+      "id": "abar-2nd",
+      "name": "Abar 2nd",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 91,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "ABAR 2ND",
+        "Abar 2nd"
+      ]
+    },
+    {
+      "id": "bagong-sikat",
+      "name": "Bagong Sikat",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 35,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "BAGONG SIKAT",
+        "Bagong Sikat"
+      ]
+    },
+    {
+      "id": "caanawan",
+      "name": "Caanawan",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 102,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "CAANAWAN",
+        "Caanawan"
+      ]
+    },
+    {
+      "id": "calaocan",
+      "name": "Calaocan",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 116,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "CALAOCAN",
+        "Calaocan",
+        "CALACOCAN"
+      ]
+    },
+    {
+      "id": "camanacsacan",
+      "name": "Camanacsacan",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 45,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "CAMANACSACAN",
+        "Camanacsacan"
+      ]
+    },
+    {
+      "id": "canuto-ramos",
+      "name": "Canuto Ramos",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 42,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "CANUTO RAMOS",
+        "Canuto Ramos"
+      ]
+    },
+    {
+      "id": "crisanto-sanchez",
+      "name": "Crisanto Sanchez",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 33,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "CRISANTO SANCHEZ",
+        "Crisanto Sanchez",
+        "C. SANCHEZ"
+      ]
+    },
+    {
+      "id": "culaylay",
+      "name": "Culaylay",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 51,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "CULAYLAY",
+        "Culaylay"
+      ]
+    },
+    {
+      "id": "dizol",
+      "name": "Dizol",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 25,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "DIZOL",
+        "Dizol"
+      ]
+    },
+    {
+      "id": "ferdinand-e-marcos",
+      "name": "Ferdinand E. Marcos",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 37,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "F.E MARCOS",
+        "F.E Marcos",
+        "FE. Marcos",
+        "FE. MARCOS",
+        "F. E Marcos"
+      ]
+    },
+    {
+      "id": "kaliwanagan",
+      "name": "Kaliwanagan",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 63,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "KALIWANAGAN",
+        "Kaliwanagan",
+        "Kliwanagan"
+      ]
+    },
+    {
+      "id": "kita-kita",
+      "name": "Kita-Kita",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 125,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "KITA KITA",
+        "Kita Kita",
+        "KITA-KITA",
+        "Kita-Kita",
+        "KIta Kita",
+        "Kita KIta",
+        "KITA -KITA",
+        "KIta KIta"
+      ]
+    },
+    {
+      "id": "malasin",
+      "name": "Malasin",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 210,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "MALASIN",
+        "Malasin"
+      ]
+    },
+    {
+      "id": "manicla",
+      "name": "Manicla",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 46,
+      "source_sheets": [
+        "BATCH 6-7",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "MANICLA",
+        "Manicla"
+      ]
+    },
+    {
+      "id": "palestina",
+      "name": "Palestina",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 115,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "PALESTINA",
+        "Palestina"
+      ]
+    },
+    {
+      "id": "parang-mangga",
+      "name": "Parang Mangga",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 24,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "PARANG MANGA",
+        "Parang Manga",
+        "PARANG MANGGA",
+        "Parang Mangga",
+        "PARANGA MANGA"
+      ]
+    },
+    {
+      "id": "pinili",
+      "name": "Pinili",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 61,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "PINILI",
+        "Pinili",
+        "PNILI"
+      ]
+    },
+    {
+      "id": "porais",
+      "name": "Porais",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 58,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "PORAIS",
+        "Porais"
+      ]
+    },
+    {
+      "id": "rafael-rueda-sr",
+      "name": "Rafael Rueda Sr.",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 37,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "RAFAEL RUEDA",
+        "Rafael Rueda",
+        "R. RUEDA"
+      ]
+    },
+    {
+      "id": "raymundo-eugenio",
+      "name": "Raymundo Eugenio",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 24,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "R. EUGENIO",
+        "R. Eugenio",
+        "R.EUGENIO"
+      ]
+    },
+    {
+      "id": "san-agustin",
+      "name": "San Agustin",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 75,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "SAN AGUSTIN",
+        "San Agustin"
+      ]
+    },
+    {
+      "id": "san-juan",
+      "name": "San Juan",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 30,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "SAN JUAN",
+        "San Juan"
+      ]
+    },
+    {
+      "id": "san-mauricio",
+      "name": "San Mauricio",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 22,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "SAN MAURICIO",
+        "San Mauricio"
+      ]
+    },
+    {
+      "id": "sibut",
+      "name": "Sibut",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 140,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "SIBUT",
+        "Sibut"
+      ]
+    },
+    {
+      "id": "sinipit-bubon",
+      "name": "Sinipit Bubon",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 31,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "SINIPIT BUBON",
+        "Sinipit Bubon"
+      ]
+    },
+    {
+      "id": "sto-nino-1st",
+      "name": "Sto. Niño 1st",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 141,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "STO NIÑO 1ST",
+        "Sto Niño 1st",
+        "Sto. Niño 1st",
+        "STO.NIÑO 1ST",
+        "SN1",
+        "STO. NINO 1ST"
+      ]
+    },
+    {
+      "id": "sto-nino-2nd",
+      "name": "Sto. Niño 2nd",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 111,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "STO. NIÑO 2ND",
+        "Sto. Niño 2nd",
+        "STO NIÑO 2ND",
+        "Sto Niño 2nd",
+        "STO.NIÑO 2ND",
+        "STO NINO 2ND",
+        "STO. NINO 2ND",
+        "Sto.Niño 2nd",
+        "Sto. Niñ0 2nd"
+      ]
+    },
+    {
+      "id": "sto-nino-3rd",
+      "name": "Sto. Niño 3rd",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 190,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "STO. NIÑO 3RD",
+        "Sto. Niño 3rd",
+        "STO NIÑO 3RD",
+        "STO.NIÑO 3RD",
+        "STO NINO 3RD",
+        "Sto Niño 3rd",
+        "SN3",
+        "STO. NINO 3RD",
+        "Sto. Niño 3nd",
+        "Sto. Nino 3rd"
+      ]
+    },
+    {
+      "id": "sto-tomas",
+      "name": "Sto. Tomas",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 160,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "STO TOMAS",
+        "Sto Tomas",
+        "STO. TOMAS",
+        "Sto. Tomas"
+      ]
+    },
+    {
+      "id": "tabulac",
+      "name": "Tabulac",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 31,
+      "source_sheets": [
+        "BATCH 6-7",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "TABULAC",
+        "Tabulac"
+      ]
+    },
+    {
+      "id": "tayabo",
+      "name": "Tayabo",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 92,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "TAYABO",
+        "Tayabo"
+      ]
+    },
+    {
+      "id": "tondod",
+      "name": "Tondod",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 70,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "TONDOD",
+        "Tondod"
+      ]
+    },
+    {
+      "id": "tulat",
+      "name": "Tulat",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 25,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "TULAT",
+        "Tulat"
+      ]
+    },
+    {
+      "id": "villa-floresta",
+      "name": "Villa Floresta",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 20,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "VILLA FLORESTA",
+        "Villa Floresta",
+        "Villa Floresca"
+      ]
+    },
+    {
+      "id": "villa-joson",
+      "name": "Villa Joson",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 42,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "VILLA JOSON",
+        "Villa Joson"
+      ]
+    },
+    {
+      "id": "villa-marina",
+      "name": "Villa Marina",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 43,
+      "source_sheets": [
+        "BATCH 6-7",
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "VILLA MARINA",
+        "Villa Marina"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "id": "ama-cabanatuan",
+      "name": "AMA CABANATUAN",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "AMA CABANATUAN"
+      ]
+    },
+    {
+      "id": "araullo-university",
+      "name": "ARAULLO UNIVERSITY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "NOT RENEWED"
+      ],
+      "source_variants": [
+        "ARAULLO UNIVERSITY"
+      ]
+    },
+    {
+      "id": "aurora-state-college-of-technology",
+      "name": "AURORA STATE COLLEGE OF TECHNOLOGY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "AURORA STATE COLLEGE OF TECHNOLOGY"
+      ]
+    },
+    {
+      "id": "benguet-state-university",
+      "name": "BENGUET STATE UNIVERSITY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "BENGUET STATE UNIVERSITY"
+      ]
+    },
+    {
+      "id": "cagayan-state-university",
+      "name": "CAGAYAN, STATE UNIVERSITY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "NOT RENEWED"
+      ],
+      "source_variants": [
+        "CAGAYAN, STATE UNIVERSITY"
+      ]
+    },
+    {
+      "id": "central-luzon-state-universiry",
+      "name": "CENTRAL LUZON STATE UNIVERSIRY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "CENTRAL LUZON STATE UNIVERSIRY"
+      ]
+    },
+    {
+      "id": "central-luzon-state-university",
+      "name": "CENTRAL LUZON STATE UNIVERSITY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 572,
+      "source_sheets": [
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "CENTRAL LUZON STATE UNIVERSITY"
+      ]
+    },
+    {
+      "id": "central-luzon-state-universityq",
+      "name": "CENTRAL LUZON STATE UNIVERSITYQ",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "CENTRAL LUZON STATE UNIVERSITYQ"
+      ]
+    },
+    {
+      "id": "central-luzon-state-unniversity",
+      "name": "CENTRAL LUZON STATE UNNIVERSITY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 2,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "CENTRAL LUZON STATE UNNIVERSITY"
+      ]
+    },
+    {
+      "id": "central-luzon-state-unuversity",
+      "name": "CENTRAL LUZON STATE UNUVERSITY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "CENTRAL LUZON STATE UNUVERSITY"
+      ]
+    },
+    {
+      "id": "college-for-research-technology",
+      "name": "COLLEGE FOR RESEARCH & TECHNOLOGY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 16,
+      "source_sheets": [
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "COLLEGE FOR RESEARCH & TECHNOLOGY"
+      ]
+    },
+    {
+      "id": "college-for-research-and-technology",
+      "name": "COLLEGE FOR RESEARCH AND TECHNOLOGY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 80,
+      "source_sheets": [
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "COLLEGE FOR RESEARCH AND TECHNOLOGY"
+      ]
+    },
+    {
+      "id": "college-for-research-in-technology",
+      "name": "COLLEGE FOR RESEARCH IN TECHNOLOGY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 8,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "COLLEGE FOR RESEARCH IN TECHNOLOGY"
+      ]
+    },
+    {
+      "id": "college-of-saint-anthony-sjdm-bulacan-inc",
+      "name": "COLLEGE OF SAINT ANTHONY SJDM BULACAN INC.",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "NOT RENEWED"
+      ],
+      "source_variants": [
+        "COLLEGE OF SAINT ANTHONY SJDM BULACAN INC."
+      ]
+    },
+    {
+      "id": "college-research-and-technology",
+      "name": "COLLEGE RESEARCH AND TECHNOLOGY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "NOT RENEWED"
+      ],
+      "source_variants": [
+        "COLLEGE RESEARCH AND TECHNOLOGY"
+      ]
+    },
+    {
+      "id": "core-gateway-college-inc",
+      "name": "CORE GATEWAY COLLEGE INC.",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 534,
+      "source_sheets": [
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "CORE GATEWAY COLLEGE INC.",
+        "CORE GATEWAY COLLEGE INC",
+        "CORE GATEWAY COLLEGE INC.,"
+      ]
+    },
+    {
+      "id": "core-gatway-college-inc",
+      "name": "CORE GATWAY COLLEGE INC.",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "CORE GATWAY COLLEGE INC."
+      ]
+    },
+    {
+      "id": "don-bosco",
+      "name": "DON BOSCO",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 5,
+      "source_sheets": [
+        "NOT RENEWED"
+      ],
+      "source_variants": [
+        "DON BOSCO"
+      ]
+    },
+    {
+      "id": "don-bosco-training-center",
+      "name": "DON BOSCO TRAINING CENTER",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 27,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "DON BOSCO TRAINING CENTER"
+      ]
+    },
+    {
+      "id": "dr-gloria-d-lacson-foundation-college-of-cabanatuan-city-inc",
+      "name": "DR. GLORIA D. LACSON FOUNDATION COLLEGE OF CABANATUAN CITY, INC.",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 3,
+      "source_sheets": [
+        "NOT RENEWED"
+      ],
+      "source_variants": [
+        "DR. GLORIA D. LACSON FOUNDATION COLLEGE OF CABANATUAN CITY, INC."
+      ]
+    },
+    {
+      "id": "dr-gloria-d-lacson-foundation-colleges-of-cabanatuan-citty",
+      "name": "DR. GLORIA D. LACSON FOUNDATION COLLEGES OF CABANATUAN CITTY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "NOT RENEWED"
+      ],
+      "source_variants": [
+        "DR. GLORIA D. LACSON FOUNDATION COLLEGES OF CABANATUAN CITTY"
+      ]
+    },
+    {
+      "id": "dr-gloria-d-lacson-foundation-colleges-of-cabanatuan-city-inc",
+      "name": "DR. GLORIA D. LACSON FOUNDATION COLLEGES OF CABANATUAN CITY, INC.",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 2,
+      "source_sheets": [
+        "NOT RENEWED"
+      ],
+      "source_variants": [
+        "DR. GLORIA D. LACSON FOUNDATION COLLEGES OF CABANATUAN CITY, INC."
+      ]
+    },
+    {
+      "id": "far-eastern-university",
+      "name": "FAR EASTERN UNIVERSITY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 2,
+      "source_sheets": [
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "FAR EASTERN UNIVERSITY"
+      ]
+    },
+    {
+      "id": "first-magcor-school-of-technology-inc",
+      "name": "FIRST MAGCOR SCHOOL OF TECHNOLOGY INC.",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "FIRST MAGCOR SCHOOL OF TECHNOLOGY INC."
+      ]
+    },
+    {
+      "id": "good-samarita-colleges",
+      "name": "GOOD SAMARITA COLLEGES",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "NOT RENEWED"
+      ],
+      "source_variants": [
+        "GOOD SAMARITA COLLEGES"
+      ]
+    },
+    {
+      "id": "good-samaritan-colleges",
+      "name": "GOOD SAMARITAN COLLEGES",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 15,
+      "source_sheets": [
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "GOOD SAMARITAN COLLEGES"
+      ]
+    },
+    {
+      "id": "lyceum-of-the-east-aurora",
+      "name": "LYCEUM OF THE EAST-AURORA",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "LYCEUM OF THE EAST-AURORA"
+      ]
+    },
+    {
+      "id": "lyceum-northwestern-university",
+      "name": "LYCEUM-NORTHWESTERN UNIVERSITY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "LYCEUM-NORTHWESTERN UNIVERSITY"
+      ]
+    },
+    {
+      "id": "mapua-university",
+      "name": "MAPUA UNIVERSITY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "NOT RENEWED"
+      ],
+      "source_variants": [
+        "MAPUA UNIVERSITY"
+      ]
+    },
+    {
+      "id": "maria-assumpta-seminary",
+      "name": "MARIA ASSUMPTA SEMINARY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "NOT RENEWED"
+      ],
+      "source_variants": [
+        "MARIA ASSUMPTA SEMINARY"
+      ]
+    },
+    {
+      "id": "midway-transfered-to-pangasinan-merchant-ma",
+      "name": "MIDWAY / TRANSFERED TO PANGASINAN MERCHANT MA.",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "MIDWAY / TRANSFERED TO PANGASINAN MERCHANT MA."
+      ]
+    },
+    {
+      "id": "midway-college",
+      "name": "MIDWAY COLLEGE",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "MIDWAY COLLEGE"
+      ]
+    },
+    {
+      "id": "midway-college-inc",
+      "name": "MIDWAY COLLEGE INC.",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 2,
+      "source_sheets": [
+        "NOT RENEWED"
+      ],
+      "source_variants": [
+        "MIDWAY COLLEGE INC."
+      ]
+    },
+    {
+      "id": "midway-colleges",
+      "name": "MIDWAY COLLEGES",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 11,
+      "source_sheets": [
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "MIDWAY COLLEGES"
+      ]
+    },
+    {
+      "id": "national-university",
+      "name": "NATIONAL UNIVERSITY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "NATIONAL UNIVERSITY"
+      ]
+    },
+    {
+      "id": "nueva-ecija-university-of-science-and-technology",
+      "name": "NUEVA ECIJA UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 12,
+      "source_sheets": [
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "NUEVA ECIJA UNIVERSITY OF SCIENCE AND TECHNOLOGY"
+      ]
+    },
+    {
+      "id": "nueva-ecija-university-of-science-n-technology",
+      "name": "NUEVA ECIJA UNIVERSITY OF SCIENCE N TECHNOLOGY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "NUEVA ECIJA UNIVERSITY OF SCIENCE N TECHNOLOGY"
+      ]
+    },
+    {
+      "id": "nueva-vizcaya-state-university",
+      "name": "NUEVA VIZCAYA STATE UNIVERSITY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "NUEVA VIZCAYA STATE UNIVERSITY"
+      ]
+    },
+    {
+      "id": "our-lady-of-fatima-university",
+      "name": "OUR LADY OF FATIMA UNIVERSITY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 11,
+      "source_sheets": [
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "OUR LADY OF FATIMA UNIVERSITY"
+      ]
+    },
+    {
+      "id": "pangasinan-merchant-marine-academy",
+      "name": "PANGASINAN MERCHANT MARINE ACADEMY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 2,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "PANGASINAN MERCHANT MARINE ACADEMY"
+      ]
+    },
+    {
+      "id": "pangasinan-merchant-marine-academy-inc",
+      "name": "PANGASINAN MERCHANT MARINE ACADEMY INC.",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 3,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "PANGASINAN MERCHANT MARINE ACADEMY INC."
+      ]
+    },
+    {
+      "id": "pcst-calasio-pangasinan",
+      "name": "PCST CALASIO PANGASINAN",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "NOT RENEWED"
+      ],
+      "source_variants": [
+        "PCST CALASIO PANGASINAN"
+      ]
+    },
+    {
+      "id": "philippine-college-of-criminology",
+      "name": "PHILIPPINE COLLEGE OF CRIMINOLOGY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "PHILIPPINE COLLEGE OF CRIMINOLOGY"
+      ]
+    },
+    {
+      "id": "philippine-merchant-marine-academy",
+      "name": "PHILIPPINE MERCHANT MARINE ACADEMY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "PHILIPPINE MERCHANT MARINE ACADEMY"
+      ]
+    },
+    {
+      "id": "philippine-state-college-of-aeronotics",
+      "name": "PHILIPPINE STATE COLLEGE OF AERONOTICS",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "PHILIPPINE STATE COLLEGE OF AERONOTICS"
+      ]
+    },
+    {
+      "id": "phina",
+      "name": "PHINA",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "NOT RENEWED"
+      ],
+      "source_variants": [
+        "PHINA"
+      ]
+    },
+    {
+      "id": "phinm-araullo-university",
+      "name": "PHINM ARAULLO UNIVERSITY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "NOT RENEWED"
+      ],
+      "source_variants": [
+        "PHINM ARAULLO UNIVERSITY"
+      ]
+    },
+    {
+      "id": "phinma-araullo-university",
+      "name": "PHINMA ARAULLO UNIVERSITY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 508,
+      "source_sheets": [
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "PHINMA ARAULLO UNIVERSITY"
+      ]
+    },
+    {
+      "id": "phinma-araulo-university",
+      "name": "PHINMA ARAULO UNIVERSITY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 3,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "PHINMA ARAULO UNIVERSITY"
+      ]
+    },
+    {
+      "id": "phinma-arauulo-university",
+      "name": "PHINMA ARAUULO UNIVERSITY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "NOT RENEWED"
+      ],
+      "source_variants": [
+        "PHINMA ARAUULO UNIVERSITY"
+      ]
+    },
+    {
+      "id": "phinma-upang-college",
+      "name": "PHINMA UPANG COLLEGE",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "PHINMA UPANG COLLEGE"
+      ]
+    },
+    {
+      "id": "pines-city-colleges",
+      "name": "PINES CITY COLLEGES",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "PINES CITY COLLEGES"
+      ]
+    },
+    {
+      "id": "polytechnic-university-of-the-philippines",
+      "name": "POLYTECHNIC UNIVERSITY OF THE PHILIPPINES",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 2,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "POLYTECHNIC UNIVERSITY OF THE PHILIPPINES"
+      ]
+    },
+    {
+      "id": "saint-louis-university",
+      "name": "SAINT LOUIS UNIVERSITY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 3,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "SAINT LOUIS UNIVERSITY"
+      ]
+    },
+    {
+      "id": "san-jose-christian-college",
+      "name": "SAN JOSE CHRISTIAN COLLEGE",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 3,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "SAN JOSE CHRISTIAN COLLEGE"
+      ]
+    },
+    {
+      "id": "san-jose-christian-colleges",
+      "name": "SAN JOSE CHRISTIAN COLLEGES",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 11,
+      "source_sheets": [
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "SAN JOSE CHRISTIAN COLLEGES"
+      ]
+    },
+    {
+      "id": "san-jose-christian-collleges",
+      "name": "SAN JOSE CHRISTIAN COLLLEGES",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "SAN JOSE CHRISTIAN COLLLEGES"
+      ]
+    },
+    {
+      "id": "st-elizabeth-global-skills-instituite-inc",
+      "name": "ST. ELIZABETH GLOBAL SKILLS INSTITUITE INC.",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "ST. ELIZABETH GLOBAL SKILLS INSTITUITE INC."
+      ]
+    },
+    {
+      "id": "st-louis-university",
+      "name": "ST. LOUIS UNIVERSITY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 2,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "ST. LOUIS UNIVERSITY"
+      ]
+    },
+    {
+      "id": "sti",
+      "name": "STI",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "STI"
+      ]
+    },
+    {
+      "id": "sti-college-san-jose",
+      "name": "STI COLLEGE - SAN JOSE",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "NOT RENEWED"
+      ],
+      "source_variants": [
+        "STI COLLEGE - SAN JOSE"
+      ]
+    },
+    {
+      "id": "system-tecnology-institute-college",
+      "name": "SYSTEM TECNOLOGY INSTITUTE COLLEGE",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "NOT RENEWED"
+      ],
+      "source_variants": [
+        "SYSTEM TECNOLOGY INSTITUTE COLLEGE"
+      ]
+    },
+    {
+      "id": "systems-institute",
+      "name": "SYSTEMS INSTITUTE",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "SYSTEMS INSTITUTE"
+      ]
+    },
+    {
+      "id": "systems-technology-institue",
+      "name": "SYSTEMS TECHNOLOGY INSTITUE",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "SYSTEMS TECHNOLOGY INSTITUE"
+      ]
+    },
+    {
+      "id": "systems-technology-institute",
+      "name": "SYSTEMS TECHNOLOGY INSTITUTE",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 72,
+      "source_sheets": [
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "SYSTEMS TECHNOLOGY INSTITUTE"
+      ]
+    },
+    {
+      "id": "toplink-global-college-inc",
+      "name": "TOPLINK GLOBAL COLLEGE INC.",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "NOT RENEWED"
+      ],
+      "source_variants": [
+        "TOPLINK GLOBAL COLLEGE INC."
+      ]
+    },
+    {
+      "id": "university-of-baguio",
+      "name": "UNIVERSITY OF BAGUIO",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 4,
+      "source_sheets": [
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "UNIVERSITY OF BAGUIO"
+      ]
+    },
+    {
+      "id": "university-of-cordilleras",
+      "name": "UNIVERSITY OF CORDILLERAS",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 2,
+      "source_sheets": [
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "UNIVERSITY OF CORDILLERAS"
+      ]
+    },
+    {
+      "id": "university-of-eastern-pangasinan",
+      "name": "UNIVERSITY OF EASTERN PANGASINAN",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "UNIVERSITY OF EASTERN PANGASINAN"
+      ]
+    },
+    {
+      "id": "university-of-sto-tomas",
+      "name": "UNIVERSITY OF STO TOMAS",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "UNIVERSITY OF STO TOMAS"
+      ]
+    },
+    {
+      "id": "university-of-the-cordilleras",
+      "name": "UNIVERSITY OF THE CORDILLERAS",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "UNIVERSITY OF THE CORDILLERAS"
+      ]
+    },
+    {
+      "id": "university-of-the-phiippines-diliman",
+      "name": "UNIVERSITY OF THE PHIIPPINES - DILIMAN",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "NOT RENEWED"
+      ],
+      "source_variants": [
+        "UNIVERSITY OF THE PHIIPPINES - DILIMAN"
+      ]
+    },
+    {
+      "id": "university-of-the-philippines-baguio",
+      "name": "UNIVERSITY OF THE PHILIPPINES - BAGUIO",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "NOT RENEWED"
+      ],
+      "source_variants": [
+        "UNIVERSITY OF THE PHILIPPINES - BAGUIO"
+      ]
+    },
+    {
+      "id": "university-of-the-philippines-open-university",
+      "name": "UNIVERSITY OF THE PHILIPPINES - OPEN UNIVERSITY",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "NOT RENEWED"
+      ],
+      "source_variants": [
+        "UNIVERSITY OF THE PHILIPPINES - OPEN UNIVERSITY"
+      ]
+    },
+    {
+      "id": "wcc-aeronotical-technological-college",
+      "name": "WCC AERONOTICAL & TECHNOLOGICAL COLLEGE",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 1,
+      "source_sheets": [
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "WCC AERONOTICAL & TECHNOLOGICAL COLLEGE"
+      ]
+    },
+    {
+      "id": "wesleyan-university-philippines",
+      "name": "WESLEYAN UNIVERSITY PHILIPPINES",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 26,
+      "source_sheets": [
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "WESLEYAN UNIVERSITY PHILIPPINES"
+      ]
+    }
+  ],
+  "batches": [
+    {
+      "id": "1",
+      "name": "1",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 394,
+      "source_sheets": [
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "1"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "2",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 395,
+      "source_sheets": [
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "2"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "3",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 409,
+      "source_sheets": [
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "3"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "4",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 384,
+      "source_sheets": [
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "4"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "5",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 401,
+      "source_sheets": [
+        "NOT RENEWED",
+        "RENEWAL 1-5"
+      ],
+      "source_variants": [
+        "5"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "6",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 500,
+      "source_sheets": [
+        "BATCH 6-7"
+      ],
+      "source_variants": [
+        "6"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "7",
+      "added_at": "2026-05-14T00:00:00+08:00",
+      "migration_source": "BATCH 1-7.xlsx",
+      "source_count": 500,
+      "source_sheets": [
+        "BATCH 6-7"
+      ],
+      "source_variants": [
+        "7"
+      ]
+    }
+  ]
+}

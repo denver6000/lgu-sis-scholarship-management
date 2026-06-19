@@ -1,0 +1,19 @@
+[
+  {
+    "student_id": "STU001",
+    "full_name": "Samuel Arocena",
+    "student_number": "09667748972",
+    "address": "TONDOD",
+    "school_address": "STI",
+    "phone_number": "096677748072",
+    "school_course": "Computer science",
+    "certificate_of_residency": true,
+    "pagpapatunay_form": true,
+    "picture_of_the_house": true,
+    "good_moral_certificate": true,
+    "original_certificate_of_grades": true,
+    "proof_of_enrollment": true,
+    "school_id": true,
+    "created_at": "2026-05-11 13:32:11"
+  }
+]
